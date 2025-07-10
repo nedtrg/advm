@@ -29,7 +29,7 @@ export default function Navbar() {
               </Link>
             </li>
             <li>
-              <a href="#" className="hover:text-purple-900">
+              <a href="/partnerwithus" className="hover:text-purple-900">
                 Partner With Us
               </a>
             </li>
@@ -73,7 +73,7 @@ export default function Navbar() {
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-purple-950">
+              <a href="/partnerwithus" className="hover:text-purple-950">
                 Partner With Us
               </a>
             </li>
