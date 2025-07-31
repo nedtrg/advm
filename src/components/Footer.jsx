@@ -22,9 +22,9 @@ export default function Footer() {
             </h1>
           </div>
           <p className="text-base text-left">
-            Advanced Technology Management creates an environment through which
-            high-quality firms from diverse backgrounds can achieve their EV
-            Charging Station investment goals.
+            CHGR+ LLC creates an environment through which high-quality firms
+            from diverse backgrounds can achieve their EV Charging Station
+            investment goals.
           </p>
         </div>
 
@@ -100,15 +100,12 @@ export default function Footer() {
           <div className="text-sm mb-2 space-y-2">
             <div className="flex items-center gap-2">
               <IconPhone className="w-5 h-5 text-green-400" />
-              <span>+1 (800) 514-1981</span>
+              <span>+1 (213) 373 - 6015</span>
             </div>
             <div className="flex items-center gap-2">
               <IconMail className="w-5 h-5 text-green-400" />
-              <a
-                href="mailto:contact@ezcharger.llc"
-                className="hover:underline"
-              >
-                contact@ezcharger.llc
+              <a href="mailto:wilson@chgrplus.com" className="hover:underline">
+                wilson@chgrplus.com
               </a>
             </div>
           </div>
@@ -117,7 +114,7 @@ export default function Footer() {
 
       {/* Bottom Line */}
       <div className="mt-10 border-t border-gray-700 pt-6 text-center text-sm text-gray-500">
-        Advanced Technology Management, LLC ©. All rights reserved.
+        CHGR+ , LLC ©. All rights reserved.
       </div>
     </footer>
   );

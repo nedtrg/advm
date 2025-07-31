@@ -18,7 +18,7 @@ export default function ContactPage() {
     if (!form.current) return;
 
     emailjs
-      .sendForm("service_n9fc7qa", "template_21xat7e", form.current, {
+      .sendForm("service_768hpjt", "template_21xat7e", form.current, {
         publicKey: "ks_EWp-bVml_VmdSN",
       })
       .then(
@@ -76,18 +76,18 @@ export default function ContactPage() {
 
           <div className="space-y-4 text-black">
             <h3 className="font-bold text-lg">Support Center</h3>
-            <p>Advanced Technology Management, LLC</p>
+            <p>CHGR+ , LLC</p>
             <p>1712 Pioneer Ave. Suite 935, Cheyenne, WY 82001</p>
             <p>
-              <strong>Telephone:</strong> +1 (800) 514-1981
+              <strong>Telephone:</strong> +1 (213) 373 - 6015
             </p>
             <p>
               <strong>E-mail:</strong>{" "}
               <a
-                href="mailto:contact@ezcharger.llc"
+                href="mailto:wilson@chgrplus.com"
                 className="text-blue-600 underline"
               >
-                contact@ezcharger.llc
+                wilson@chgrplus.com
               </a>
             </p>
           </div>

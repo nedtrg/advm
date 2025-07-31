@@ -15,7 +15,7 @@ const roboto = Roboto({
 });
 
 export const metadata = {
-  title: "ADVM",
+  title: "CHGR+ LLC.",
   description: "EV Chargers and Purchase",
 };
 
