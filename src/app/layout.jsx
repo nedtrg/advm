@@ -17,6 +17,9 @@ const roboto = Roboto({
 export const metadata = {
   title: "CHGR+ LLC.",
   description: "EV Chargers and Purchase",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
